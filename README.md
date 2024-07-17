@@ -14,13 +14,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on _**Notes-Taking App Development**_
+ 🔭 I’m currently working on _**Network Researching**_
  
- ✈️ I’m currently shifting to _**NextJS**_ because why not
+ ✈️ I’m currently getting idea of  _**Deep Learning**_ because why not!!
 
-💬 Ask me about _**Reading books**_, _**Music**_, or _**anything**_ [.....](https://github.com/Sumaiya-Arshad/Sumaiya-Arshad/issues)
+💬 Ask me about _**Reading books**_, _**travelling**_, or _**anything you like**_ [.....](https://github.com/Sumaiya-Arshad/Sumaiya-Arshad/issues)
 
-⚡ Fun Fact: _**My cat can walk across the keyboard and get a higher score than me...**_
+⚡ Fun Fact: _**The thundering tail of pickachu brings the storm...**_
 
  </div>
  
@@ -33,23 +33,23 @@
   </a>
 </div>
 
- <p align="center"> <a href="https://www.github.com/Sumaiya-Arshad" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/arcusten" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: none)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/muhammad-haris-815aa326a/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
+ <p align="center"> <a href="https://www.github.com/Sumaiya-Arshad" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/itx_somi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: none)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/muhammad-haris-815aa326a/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
 </p>
 
  <hr/>
  
-<h2 align="center">Skills 👨🏻‍🔬</h2>
+<h2 align="center"> What I can do?? 👨🏻‍🔬</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,c,python,html,css,vscode,neovim,linux" />
-    <img src="https://skillicons.dev/icons?i=react,firebase,javascript,nodejs" /><br> <!-- figma,mongodb,flask,,mysqltypescript,express,mongodb,r, -->
+    <img src="https://skillicons.dev/icons?i=git,github,C++,python,html,css,vscode,docker,linux,wireshark" />
+  
 </div>
 
 <br/>
 <hr/>
 
 <div align="center">
-  <h2> Here, watch me play Snake Game 🐍</h2>
+  <h2> Pickachu sometime loves to play games 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
