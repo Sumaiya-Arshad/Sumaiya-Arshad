@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=1200&pause=1500&color=880000&center=true&vCenter=true&random=false&lines=Hey!!;+Pickachu+Here!!+%F0%9F%91%8B%F0%9F%8F%BD;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=1200&pause=1500&color=880000&center=true&vCenter=true&random=false&lines=Hi!!;+Pickachu+Here!!+%F0%9F%91%8B%F0%9F%8F%BD;" />
 </h1>
 
 <h3 align="center">
@@ -49,7 +49,7 @@
 <hr/>
 
 <div align="center">
-  <h2> Pickachu sometime loves to play games 🐍</h2>
+  <h2> Pickachu sometimes love to play games 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
