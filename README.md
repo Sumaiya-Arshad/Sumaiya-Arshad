@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  CYS Student from <a href="https://au.edu.pk" style="text-decoration: none; color: inherit; font-weight: bold;">AU</a> 🇵🇰
+  CYS Partitioner from <a href="https://au.edu.pk" style="text-decoration: none; color: inherit; font-weight: bold;">AU</a> 🇵🇰
 </h3>
 
 
