@@ -58,9 +58,9 @@
 
 <hr/>
 
-<h2 align="center">what I did </h2>
+<h2 align="center">My github stats </h2>
 
-<!--  -->
+<!-- and most used language -->
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Sumaiya-Arshad&show_icons=true&theme=highcontrast&title_color=f10000&icon_color=f040983">
   <br>
