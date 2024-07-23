@@ -58,13 +58,15 @@
 
 <hr/>
 
-<h2 align="center">My GitHub Stats ⬇️</h2>
+<h2 align="center">what I did </h2>
 
-<!-- GitHub Stats  & Top Lang -->
+<!--  -->
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Sumaiya-Arshad&show_icons=true&theme=highcontrast&title_color=f10000&icon_color=f040983">
   <br>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Sumaiya-Arshad&theme=highcontrast&title_color=f10000&icon_color=f040983">
+    <br>
+  <script src="https://tryhackme.com/badge/2280072"></script>  
 </p>
 
 
