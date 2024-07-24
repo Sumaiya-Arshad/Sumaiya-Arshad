@@ -66,7 +66,9 @@
   <br>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Sumaiya-Arshad&theme=highcontrast&title_color=f10000&icon_color=f040983">
     <br>
-  <img src="https://tryhackme.com/badge/2280072">
+    <script src="https://tryhackme.com/badge/2280072"></script>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/the.pickachu.png" alt="TryHackMe">
+ 
 </p>
 
 
