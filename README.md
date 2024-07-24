@@ -68,7 +68,7 @@
     <br>
    src="https://tryhackme.com/badge/2280072"
      <img src="https://tryhackme-badges.s3.amazonaws.com/the.pickachu.png" alt="TryHackMe">
-<img src="https://tryhackme.com/the.pickachu/badges/terminaled" alt="TryHackMe">
+
 
 
   
